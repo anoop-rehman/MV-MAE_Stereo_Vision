@@ -5,3 +5,5 @@
 *.zip
 *.exe
 *.sif
+.whvenv
+wheelhouse/*
